@@ -1,2 +1,2 @@
-# SpanLancasterNorm
-Spanish Lancaster Norms 
+# SentirEs: Spanish Sensorimotor Norms
+Spanish sensorimotor norm srtimuli selection
